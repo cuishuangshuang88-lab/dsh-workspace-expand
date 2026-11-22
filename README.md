@@ -35,3 +35,6 @@ Then enable it (it is enabled on install by default). Reload/restart the app so 
 ## License
 
 MIT
+
+## 快捷上传已配置 (2026-11-22)
+本机已安装 gh CLI 并将 token 存入 macOS 钥匙串，后续上传走 git+gh 一条命令。
