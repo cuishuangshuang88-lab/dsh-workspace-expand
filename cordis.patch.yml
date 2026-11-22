@@ -1,0 +1,3 @@
+- insert:
+    - id: workspace-expand
+      name: '@local/dsh-workspace-expand'
